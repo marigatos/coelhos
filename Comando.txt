@@ -1,0 +1,6 @@
+git clone https://github.com/marigatos/coelhos.git
+cd cowlhos
+cd coelhos
+dir a
+dir /a
+doskey /h >Comando.txt
